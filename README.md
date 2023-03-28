@@ -6,7 +6,7 @@ cd cblas/ncnn/Android folder;ndk-build;run.bat
 
 NOTE:
 cblas version implement within this repo deponds on https://github.com/AlphaQi/MTCNN-light, i compile it in early 2017, and then port it to android using openblas(this is a default .so for android>=6.0)
-ncnn version implement, i made it in early 2017 too, when ncnn is announced.
+ncnn version implement, i made it in early 2017 too, when ncnn was announced.
 At that time, i made test script for win user, guess it will be easy to use and modify.
 
 Tips:
